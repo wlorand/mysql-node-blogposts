@@ -1,0 +1,10 @@
+{
+  "name": "mysql-node-blogposts",
+  "version": "1.0.0",
+  "description": "Proto Blogpost app to show mysql node integration",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
