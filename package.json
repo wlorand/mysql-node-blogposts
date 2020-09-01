@@ -1,7 +1,7 @@
 {
   "name": "mysql-node-blogposts",
   "version": "1.0.0",
-  "description": "Proto blogpost app to show mysql node/express integration",
+  "description": "Proto blogpost app to demo mysql integration with node/express",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
