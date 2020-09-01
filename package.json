@@ -1,10 +1,17 @@
 {
   "name": "mysql-node-blogposts",
   "version": "1.0.0",
-  "description": "Proto Blogpost app to show mysql node integration",
+  "description": "Proto blogpost app to show mysql node/express integration",
   "main": "app.js",
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "will@milemarker3.org",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
 }
